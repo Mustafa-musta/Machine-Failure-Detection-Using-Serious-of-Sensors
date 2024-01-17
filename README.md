@@ -1,4 +1,4 @@
-# Failure Detection Using Sensor
+# Failure Detection Using Serious of Sensors
 
 ### Problem Statement
 Sensors uses to detect the error in the system. This projects aims to use sensor data to detect the what is the cause of failure.
